@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryansabasana/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,8 +30,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aryansabasana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 <!---LeetCode Topics End-->
