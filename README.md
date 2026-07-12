@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Aryansabasana/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0228-summary-ranges](https://github.com/Aryansabasana/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryansabasana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
