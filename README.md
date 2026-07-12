@@ -34,6 +34,7 @@
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0342-power-of-four](https://github.com/Aryansabasana/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0441-arranging-coins](https://github.com/Aryansabasana/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aryansabasana/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Sorting
@@ -61,5 +62,10 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/Aryansabasana/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/Aryansabasana/LeetCode/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
