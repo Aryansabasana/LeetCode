@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryansabasana/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Aryansabasana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0228-summary-ranges](https://github.com/Aryansabasana/LeetCode/tree/main/0228-summary-ranges/) | Easy |
@@ -18,6 +19,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Aryansabasana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Aryansabasana/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -40,6 +42,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Aryansabasana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## String Matching
