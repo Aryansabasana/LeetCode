@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0228-summary-ranges](https://github.com/Aryansabasana/LeetCode/tree/main/0228-summary-ranges/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Aryansabasana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aryansabasana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryansabasana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryansabasana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -81,4 +82,8 @@
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Aryansabasana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryansabasana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Aryansabasana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
