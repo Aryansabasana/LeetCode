@@ -11,6 +11,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0228-summary-ranges](https://github.com/Aryansabasana/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aryansabasana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Aryansabasana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryansabasana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
@@ -79,4 +80,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Aryansabasana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Aryansabasana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
