@@ -13,6 +13,7 @@
 | [0228-summary-ranges](https://github.com/Aryansabasana/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Aryansabasana/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0896-monotonic-array](https://github.com/Aryansabasana/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryansabasana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Aryansabasana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Aryansabasana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
