@@ -20,6 +20,7 @@
 | [1920-build-array-from-permutation](https://github.com/Aryansabasana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryansabasana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryansabasana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Aryansabasana/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
