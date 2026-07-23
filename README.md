@@ -15,6 +15,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0896-monotonic-array](https://github.com/Aryansabasana/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryansabasana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1313-decompress-run-length-encoded-list](https://github.com/Aryansabasana/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Aryansabasana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Aryansabasana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aryansabasana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
