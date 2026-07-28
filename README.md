@@ -56,6 +56,7 @@
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0292-nim-game](https://github.com/Aryansabasana/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/Aryansabasana/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0441-arranging-coins](https://github.com/Aryansabasana/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
@@ -138,9 +139,11 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Aryansabasana/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Aryansabasana/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
