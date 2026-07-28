@@ -57,6 +57,7 @@
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0342-power-of-four](https://github.com/Aryansabasana/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0441-arranging-coins](https://github.com/Aryansabasana/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aryansabasana/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Sorting
@@ -128,4 +129,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
