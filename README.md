@@ -23,6 +23,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryansabasana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Aryansabasana/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3828-final-element-after-subarray-deletions](https://github.com/Aryansabasana/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aryansabasana/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aryansabasana/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/Aryansabasana/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,9 +143,11 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Aryansabasana/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/Aryansabasana/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Aryansabasana/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/Aryansabasana/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 <!---LeetCode Topics End-->
