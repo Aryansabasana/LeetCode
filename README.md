@@ -49,6 +49,7 @@
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aryansabasana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aryansabasana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Aryansabasana/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryansabasana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 | [0342-power-of-four](https://github.com/Aryansabasana/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0441-arranging-coins](https://github.com/Aryansabasana/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Aryansabasana/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aryansabasana/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Sorting
