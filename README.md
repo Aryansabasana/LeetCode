@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Aryansabasana/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Aryansabasana/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aryansabasana/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Aryansabasana/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryansabasana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -38,6 +39,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aryansabasana/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aryansabasana/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Aryansabasana/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Aryansabasana/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -69,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Aryansabasana/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Aryansabasana/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryansabasana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
