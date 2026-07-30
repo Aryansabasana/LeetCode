@@ -153,4 +153,8 @@
 | [0292-nim-game](https://github.com/Aryansabasana/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Aryansabasana/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Aryansabasana/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
