@@ -56,6 +56,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aryansabasana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aryansabasana/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryansabasana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3163-string-compression-iii](https://github.com/Aryansabasana/LeetCode/tree/main/3163-string-compression-iii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
