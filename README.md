@@ -50,6 +50,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aryansabasana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryansabasana/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Aryansabasana/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -95,6 +96,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aryansabasana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
 ## Binary Search
