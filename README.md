@@ -40,6 +40,7 @@
 | [0011-container-with-most-water](https://github.com/Aryansabasana/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aryansabasana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Aryansabasana/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryansabasana/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Aryansabasana/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -49,6 +50,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryansabasana/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Aryansabasana/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/Aryansabasana/LeetCode/tree/main/0443-string-compression/) | Medium |
@@ -83,6 +85,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryansabasana/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aryansabasana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
