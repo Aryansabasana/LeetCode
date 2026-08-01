@@ -64,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Aryansabasana/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Aryansabasana/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/Aryansabasana/LeetCode/tree/main/0292-nim-game/) | Easy |
@@ -150,6 +151,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Aryansabasana/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/Aryansabasana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -171,4 +173,8 @@
 | [0183-customers-who-never-order](https://github.com/Aryansabasana/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/Aryansabasana/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryansabasana/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Aryansabasana/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
