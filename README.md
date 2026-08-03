@@ -171,6 +171,7 @@
 | [0175-combine-two-tables](https://github.com/Aryansabasana/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/Aryansabasana/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Aryansabasana/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/Aryansabasana/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0577-employee-bonus](https://github.com/Aryansabasana/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aryansabasana/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryansabasana/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
