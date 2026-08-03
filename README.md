@@ -175,6 +175,7 @@
 | [0184-department-highest-salary](https://github.com/Aryansabasana/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0577-employee-bonus](https://github.com/Aryansabasana/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aryansabasana/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [1683-invalid-tweets](https://github.com/Aryansabasana/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryansabasana/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
