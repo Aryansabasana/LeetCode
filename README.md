@@ -178,6 +178,7 @@
 | [1484-group-sold-products-by-the-date](https://github.com/Aryansabasana/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1683-invalid-tweets](https://github.com/Aryansabasana/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryansabasana/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/Aryansabasana/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
