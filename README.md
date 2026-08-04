@@ -178,6 +178,7 @@
 | [0577-employee-bonus](https://github.com/Aryansabasana/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Aryansabasana/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aryansabasana/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0595-big-countries](https://github.com/Aryansabasana/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Aryansabasana/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1683-invalid-tweets](https://github.com/Aryansabasana/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryansabasana/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
