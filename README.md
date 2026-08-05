@@ -182,6 +182,7 @@
 | [0610-triangle-judgement](https://github.com/Aryansabasana/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Aryansabasana/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Aryansabasana/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Aryansabasana/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Aryansabasana/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Aryansabasana/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Aryansabasana/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
