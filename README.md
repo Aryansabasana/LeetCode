@@ -186,6 +186,7 @@
 | [1068-product-sales-analysis-i](https://github.com/Aryansabasana/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Aryansabasana/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Aryansabasana/LeetCode/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryansabasana/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Aryansabasana/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aryansabasana/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Aryansabasana/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
