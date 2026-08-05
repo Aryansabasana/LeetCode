@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryansabasana/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryansabasana/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aryansabasana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -42,6 +43,7 @@
 | [0016-3sum-closest](https://github.com/Aryansabasana/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryansabasana/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryansabasana/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Aryansabasana/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -208,6 +210,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aryansabasana/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryansabasana/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
