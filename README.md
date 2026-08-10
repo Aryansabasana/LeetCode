@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aryansabasana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryansabasana/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0038-count-and-say](https://github.com/Aryansabasana/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Aryansabasana/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/Aryansabasana/LeetCode/tree/main/0443-string-compression/) | Medium |
