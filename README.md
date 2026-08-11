@@ -23,6 +23,7 @@
 | [1929-concatenation-of-array](https://github.com/Aryansabasana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryansabasana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Aryansabasana/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryansabasana/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3828-final-element-after-subarray-deletions](https://github.com/Aryansabasana/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -34,6 +35,7 @@
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aryansabasana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryansabasana/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -222,4 +224,5 @@
 | [0234-palindrome-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aryansabasana/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryansabasana/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 <!---LeetCode Topics End-->
