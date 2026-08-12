@@ -114,6 +114,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@
 | [0234-palindrome-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/Aryansabasana/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,5 +235,10 @@
 | [0234-palindrome-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aryansabasana/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryansabasana/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
