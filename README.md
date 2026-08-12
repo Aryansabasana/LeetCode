@@ -12,6 +12,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryansabasana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/Aryansabasana/LeetCode/tree/main/0228-summary-ranges/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/Aryansabasana/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Aryansabasana/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0896-monotonic-array](https://github.com/Aryansabasana/LeetCode/tree/main/0896-monotonic-array/) | Easy |
@@ -62,6 +63,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryansabasana/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Aryansabasana/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Aryansabasana/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/Aryansabasana/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/Aryansabasana/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aryansabasana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
@@ -130,6 +132,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/Aryansabasana/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0342-power-of-four](https://github.com/Aryansabasana/LeetCode/tree/main/0342-power-of-four/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
