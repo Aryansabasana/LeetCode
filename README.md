@@ -17,6 +17,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0896-monotonic-array](https://github.com/Aryansabasana/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryansabasana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/Aryansabasana/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Aryansabasana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Aryansabasana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -114,6 +115,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -234,11 +236,13 @@
 | [0206-reverse-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aryansabasana/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryansabasana/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
