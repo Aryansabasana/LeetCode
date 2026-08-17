@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/Aryansabasana/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0896-monotonic-array](https://github.com/Aryansabasana/LeetCode/tree/main/0896-monotonic-array/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Aryansabasana/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryansabasana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/Aryansabasana/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
@@ -96,6 +97,7 @@
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryansabasana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Aryansabasana/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryansabasana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## String Matching
@@ -107,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aryansabasana/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Aryansabasana/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -161,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Aryansabasana/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
