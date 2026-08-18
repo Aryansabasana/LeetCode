@@ -22,6 +22,7 @@
 | [1313-decompress-run-length-encoded-list](https://github.com/Aryansabasana/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Aryansabasana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Aryansabasana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Aryansabasana/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aryansabasana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryansabasana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryansabasana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -110,6 +111,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aryansabasana/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aryansabasana/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Aryansabasana/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
