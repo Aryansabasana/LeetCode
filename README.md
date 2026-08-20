@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Aryansabasana/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aryansabasana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Aryansabasana/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0036-valid-sudoku](https://github.com/Aryansabasana/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryansabasana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryansabasana/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/Aryansabasana/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Aryansabasana/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryansabasana/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Aryansabasana/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -157,6 +159,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Aryansabasana/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Aryansabasana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
