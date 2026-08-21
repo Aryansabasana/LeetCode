@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Aryansabasana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Aryansabasana/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0036-valid-sudoku](https://github.com/Aryansabasana/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/Aryansabasana/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Aryansabasana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryansabasana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -149,6 +150,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Aryansabasana/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Aryansabasana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryansabasana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
@@ -160,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Aryansabasana/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/Aryansabasana/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Aryansabasana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
