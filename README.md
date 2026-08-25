@@ -31,6 +31,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Aryansabasana/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryansabasana/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aryansabasana/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Aryansabasana/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aryansabasana/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
@@ -47,6 +48,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryansabasana/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryansabasana/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aryansabasana/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
