@@ -11,12 +11,7 @@ public:
     bool hasCycle(ListNode *head) {
        unordered_set<ListNode*> addr;
        ListNode* i = head;
-
-       if(head!=NULL && head->next==NULL) {
-        return false;
-       }
-
-       while(i!=NULL) {
+        while(i!=NULL) {
         if(addr.count(i)) {
             return true;
         }
