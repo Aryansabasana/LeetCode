@@ -14,7 +14,7 @@ public:
     bool isPalindrome(ListNode* head) {
         ListNode* i = NULL;
         ListNode* temp = head;
-        ListNode* addr = NULL;
+        
 
         while (temp != NULL) {
 
