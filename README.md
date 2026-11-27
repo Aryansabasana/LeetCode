@@ -19,6 +19,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/Aryansabasana/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Aryansabasana/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryansabasana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0682-baseball-game](https://github.com/Aryansabasana/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0896-monotonic-array](https://github.com/Aryansabasana/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aryansabasana/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryansabasana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -135,6 +136,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansabasana/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0682-baseball-game](https://github.com/Aryansabasana/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Binary Search
@@ -164,6 +166,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Aryansabasana/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0682-baseball-game](https://github.com/Aryansabasana/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aryansabasana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryansabasana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
