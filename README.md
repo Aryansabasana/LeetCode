@@ -22,6 +22,7 @@
 | [0682-baseball-game](https://github.com/Aryansabasana/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0896-monotonic-array](https://github.com/Aryansabasana/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aryansabasana/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Aryansabasana/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryansabasana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/Aryansabasana/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
@@ -138,6 +139,7 @@
 | [0234-palindrome-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Aryansabasana/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0682-baseball-game](https://github.com/Aryansabasana/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/Aryansabasana/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aryansabasana/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aryansabasana/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -169,6 +171,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Aryansabasana/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/Aryansabasana/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/Aryansabasana/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Aryansabasana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryansabasana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Aryansabasana/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
